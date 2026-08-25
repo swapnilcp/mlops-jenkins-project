@@ -1,0 +1,33 @@
+Step 1:
+- github link https://github.com/swapnilcp/mlops-jenkins-project.git
+- open vscode 
+- clone the same repository
+
+-  git clone https://github.com/swapnilcp/mlops-jenkins-project.git
+- create virtual environment for your project
+- python -m vnev virtual_env
+- .virtual_env\Scripts\activate.bat
+- python -m pip install -r requirements.txt
+
+Step 2:
+- create github repository  ml_ci_cd
+- Open jenkins
+- We are creating pipeline project
+- add git hub repository x
+- git init
+- git add .
+- git commit -m "firt commit"
+- git remote add origin apake github ka url
+- git branch 
+- git branch -M main
+- git push oring main
+
+Step3 :
+ webhooks integration
+ - Visit ngrok
+ - login using gihub  or email
+ - port forward jenkins
+ - settings jenkins
+ - 
+
+ 
